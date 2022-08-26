@@ -1,0 +1,7 @@
+2022/08/01-20:11:20.374 5674 Reusing MANIFEST C:\Users\santh\source\repos\Hotstar\Hotstar\bin\Release\net6.0-windows\Hotstar.exe.WebView2\EBWebView\Default\IndexedDB\https_www.hotstar.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/01-20:11:20.375 5674 Recovering log #3
+2022/08/01-20:11:20.375 5674 Reusing old log C:\Users\santh\source\repos\Hotstar\Hotstar\bin\Release\net6.0-windows\Hotstar.exe.WebView2\EBWebView\Default\IndexedDB\https_www.hotstar.com_0.indexeddb.leveldb/000003.log 
+2022/08/01-20:11:22.683 5674 Level-0 table #5: started
+2022/08/01-20:11:22.685 5674 Level-0 table #5: 243 bytes OK
+2022/08/01-20:11:22.686 5674 Delete type=0 #3
+2022/08/01-20:11:22.687 5674 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

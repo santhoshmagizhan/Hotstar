@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDW0hQ678z1JVYN0iKAZV44aLoFa0yBvVmDP47XD2hbo9n5QxseQmo/nxdfdg6UAqGW3i3/UHDKp0LZA+ktU5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santh\\source\\repos\\Hotstar\\Hotstar\\Hotstar.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santh\\.nuget\\packages\\microsoft.web.webview2\\1.0.1245.22\\microsoft.web.webview2.1.0.1245.22.nupkg.sha512"
+  ],
+  "logs": []
+}
